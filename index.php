@@ -11,7 +11,7 @@
 			<div class="col-md">
 			
 					<h3 class="text-center">Pendaftaran Siswa Baru</h3>
-					<h1 class="text-center">SMK Coding</h1>
+					<h1 class="text-center">SMA Negeri Ambulu</h1>
 				
 				
 				
